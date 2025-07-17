@@ -1,0 +1,27 @@
+# Node modules
+/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Debugger files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Build outputs (if any)
+dist/
+build/
+
+# PostgreSQL database files (if any local dumps)
+*.sql
+*.sqlite
